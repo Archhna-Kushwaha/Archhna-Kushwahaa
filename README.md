@@ -23,7 +23,7 @@
 
 ### 📈 Projects
 
-- 🔹 [Pharmaceutical Sales Dashboard in Power BI](https://github.com/Archhna-Kushwaha/pharmaceutical-pbi-project)  
+- 🔹 **[Pharmaceutical Sales Dashboard in Power BI]**(https://github.com/Archhna-Kushwaha/pharmaceutical-pbi-project)  
   A clean, interactive dashboard using mock pharma sales data, showing regional and monthly performance.
 
 _(More exciting projects coming soon...)_
@@ -40,6 +40,7 @@ With a strong foundation in chemistry and research, I bring analytical thinking 
 
 - 🌐 LinkedIn: [linkedin.com/in/archana-kushwaha-526a1b30](https://linkedin.com/in/archana-kushwaha-526a1b30)  
 - 💡 Always happy to connect, collaborate, and grow in the field of data analytics!
+-  “Open to freelancing, collaborations, or entry-level data roles!”
 
 ---
 
